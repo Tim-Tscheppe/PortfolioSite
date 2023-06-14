@@ -12,9 +12,7 @@ export default function Projects() {
             Personal Projects
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            Outside of work, I like to keep up with the latest technologies and frameworks to enhance my knowledge. I especially enjoy building projects around emerging technologies (like machine learning and web3).
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

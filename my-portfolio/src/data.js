@@ -15,24 +15,22 @@ export const projects = [
     image: "./website.png",
     link: "https://main--timtscheppe.netlify.app/",
   },
-  /*
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Confidential",
+    subtitle: "C/C++, Python3",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Embedded System",
+    image: "./confidential",
+    link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "NLP Word Embedding Server (WIP)",
+    subtitle: "Rust (Frontend Language TBD)",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "Goal: Implement http word embedding server to provide an API to perform word embedding faster and more memory efficient than python.",
+    image: "./NLP.jpg",
+    link: "https://github.com/Tim-Tscheppe/NLPWordEmbeddingServer",
   },
-  */
 ];
 
 export const services = [
