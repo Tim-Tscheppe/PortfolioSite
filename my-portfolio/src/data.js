@@ -4,17 +4,18 @@ export const projects = [
     subtitle: "Flask, Python3, Solidity, SQL, Java",
     description:
       "Mock SaaS to virtualize Ethereum payments and aqquire customer data",
-    image: "./project1.png",
+    image: "./blockchain.png",
     link: "https://github.com/Tim-Tscheppe/TargetedBlockchainAdvertising",
   },
-  /*{
-    title: "React Tracks",
-    subtitle: "React and Python",
+  {
+    title: "Portfolio Site",
+    subtitle: "Javascript (React), Github CI/CD",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "The site you are on, practice with modern web development frameworks.",
+    image: "./website.png",
+    link: "https://main--timtscheppe.netlify.app/",
   },
+  /*
   {
     title: "DevChat",
     subtitle: "React and Firebase",
