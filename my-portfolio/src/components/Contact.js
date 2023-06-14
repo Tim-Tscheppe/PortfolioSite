@@ -46,10 +46,15 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 LINKEDIN
               </h2>
-              <p className="mt-1">
-                 <br />
-                 https://www.linkedin.com/in/tim-tscheppe/
-              </p>
+              <a className="text-indigo-400 leading-relaxed">
+                https://www.linkedin.com/in/tim-tscheppe/
+              </a>
+              <h2 className="title-font font-semibold text-white tracking-widest text-xs">
+                GITHUB
+              </h2>
+              <a className="text-indigo-400 leading-relaxed">
+                https://github.com/Tim-Tscheppe
+              </a>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
@@ -73,8 +78,7 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+            For employment opportunities, the best way to contact me is via LinkedIn messaging. For projects, consulting and tutoring you can reach me via email or use the form below.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
@@ -108,6 +112,7 @@ export default function Contact() {
               id="message"
               name="message"
               className="w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 h-32 text-base outline-none text-gray-100 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
+              onChange={(e) => setMessage(e.target.value)}
             />
           </div>
           <button
