@@ -25,7 +25,7 @@ export default function About() {
                 </a>
                 <a
                   href="#services"
-                  className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
+                  className="ml-4 inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
                   Services I Offer
                 </a>
               </div>
