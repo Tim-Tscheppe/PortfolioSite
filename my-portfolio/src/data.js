@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "C/C++, Python3",
     description:
       "Embedded System",
-    image: "./confidential.png",
+    image: "./spy.jpg",
     link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
   },
   {
