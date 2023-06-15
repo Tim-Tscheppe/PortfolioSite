@@ -13,7 +13,7 @@ export const projects = [
     description:
       "The site you are on, practice with modern web development frameworks.",
     image: "./website.png",
-    link: "https://main--timtscheppe.netlify.app/",
+    link: "https://timtscheppe.com/",
   },
   {
     title: "Confidential",
