@@ -16,12 +16,12 @@ export const projects = [
     link: "https://timtscheppe.com/",
   },
   {
-    title: "Confidential",
-    subtitle: "C/C++, Python3",
+    title: "Blight Kernel",
+    subtitle: "Rust, *nix Shell",
     description:
-      "Embedded System",
+      "Goal is to learn low level programming by writing a simple OS Kernel in Rust",
     image: "./spy.jpg",
-    link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    link: "https://github.com/Tim-Tscheppe/BlightKernel",
   },
   {
     title: "NLP Word Embedding Server (WIP)",
